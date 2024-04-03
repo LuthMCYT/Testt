@@ -1,0 +1,10 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+#uppercaseText {
+  text-align: center;
+  margin-top: 20px;
+  word-wrap: break-word;
+}
